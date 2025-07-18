@@ -1,0 +1,15 @@
+RELATÓRIO DE CONFERÊNCIA DE ESTOQUE
+Quiosque: Analia Franco
+Contador(a): Eduardo
+Data: 17/07/2025, 09:50:02
+
+SKU                           Contado   Anterior  Observação
+-----------------------------------------------------------------
+maite                         1         1         ✓ Atualizado
+sissi cast                    -         1         ⏸️ Não bipado
+livia                         2         9         ✓ Atualizado ▼ Diminuiu
+arthur                        -         2         ⏸️ Não bipado
+roupa menina                  -         20        ⏸️ Não bipado
+prendedor menina              -         15        ⏸️ Não bipado
+laco                          -         10        ⏸️ Não bipado
+kit completo rosa             -         20        ⏸️ Não bipado

@@ -1,0 +1,6 @@
+Separador: natali
+Quiosque: Mogi das Cruzes
+
+sofia	2
+maite	1
+abigail	1

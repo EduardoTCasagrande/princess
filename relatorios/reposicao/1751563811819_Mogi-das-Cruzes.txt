@@ -1,0 +1,5 @@
+Separador: rafaela
+Quiosque: Mogi das Cruzes
+
+abigail	1
+sofia	2

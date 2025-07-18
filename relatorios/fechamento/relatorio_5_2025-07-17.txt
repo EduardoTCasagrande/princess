@@ -1,0 +1,50 @@
+Abertura de Caixa
+Quiosque ID: 5
+Valor Inicial: R$ 1000,00
+Data: 17/07/2025, 09:46:40
+
+
+Fechamento de Caixa
+
+Vendas por Forma de Pagamento:
+- Dinheiro: R$ 100,00
+- Pix: R$ 149,99
+- Cartão: R$ 0,00
+Sangrias: R$ 499,00
+
+Total vendido em dinheiro no dia: R$ 100,00
+
+SALDO ATUAL NO CAIXA: R$ 14619,47
+Abertura de Caixa
+Quiosque ID: 5
+Valor Inicial: R$ 1400,00
+Data: 17/07/2025, 09:27:00
+
+
+Fechamento de Caixa
+
+Vendas por Forma de Pagamento:
+- Dinheiro: R$ 0,00
+- Pix: R$ 0,00
+- Cartão: R$ 0,00
+Sangrias: R$ 0,00
+
+Total vendido em dinheiro no dia: R$ 0,00
+
+SALDO ATUAL NO CAIXA: R$ 15018,47
+Abertura de Caixa
+Quiosque ID: 5
+Valor Inicial: R$ 1399,92
+Data: 17/07/2025, 09:26:20
+
+Fechamento de Caixa
+
+Vendas por Forma de Pagamento:
+- Dinheiro: R$ 1299,92
+- Pix: R$ 99,98
+- Cartão: R$ 100,00
+Sangrias: R$ 0,00
+
+Total vendido em dinheiro no dia: R$ 1299,92
+
+SALDO ATUAL NO CAIXA: R$ 15018,47

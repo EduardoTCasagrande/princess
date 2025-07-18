@@ -1,0 +1,12 @@
+RELATÓRIO DE CONFERÊNCIA DE ESTOQUE
+Quiosque: Mogi das Cruzes
+Contador(a): Não informado
+Data: 03/07/2025, 14:44:07
+
+SKU                           Contado   Anterior  Observação
+-----------------------------------------------------------------
+int#2025@lagos!1              -         1         ⏸️ Não bipado
+sofia                         11        5         ✓ ▲ Aumentou
+maite                         -         1         ⏸️ Não bipado
+abigail                       -         2         ⏸️ Não bipado
+sapato menina                 -         1         ⏸️ Não bipado

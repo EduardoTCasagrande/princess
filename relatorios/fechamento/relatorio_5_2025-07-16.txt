@@ -1,0 +1,22 @@
+Abertura de Caixa
+Quiosque ID: 5
+Valor Inicial: R$ 100,00
+Data: 16/07/2025, 11:17:56
+
+
+Fechamento de Caixa
+
+Vendas por Forma de Pagamento:
+- Dinheiro: R$ 0,00
+- Pix: R$ 0,00
+- Cartão: R$ 0,00
+Sangrias: R$ 0,00
+
+Total vendido em dinheiro no dia: R$ 0,00
+
+SALDO ATUAL NO CAIXA: R$ 13718,55
+Abertura de Caixa
+Quiosque ID: 5
+Valor Inicial: R$ 100,00
+Data: 16/07/2025, 11:10:45
+

@@ -1,0 +1,12 @@
+Separador: eDUARDO
+Quiosque: Analia Franco
+
+SKU	Planejado	Bipado	Status
+--------------------------------------------------
+arthur	4	2	▼ A menos (2)
+livia	3	0	❌ Faltando
+girafinha	2	0	❌ Faltando
+kit completo rosa	20	20	✓ Correto
+prendedor menina	10	10	✓ Correto
+roupa menina	20	20	✓ Correto
+laco	10	10	✓ Correto

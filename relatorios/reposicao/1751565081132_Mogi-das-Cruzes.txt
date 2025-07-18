@@ -1,0 +1,7 @@
+Separador: leticia
+Quiosque: Mogi das Cruzes
+
+SKU	Planejado	Bipado	Status
+--------------------------------------------------
+sofia	11	1	▼ A menos (10)
+maite	0	2	▲ A mais (2)

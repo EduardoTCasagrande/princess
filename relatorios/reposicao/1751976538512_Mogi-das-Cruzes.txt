@@ -1,0 +1,13 @@
+Separador: ED
+Quiosque: Mogi das Cruzes
+
+SKU	Planejado	Bipado	Status
+--------------------------------------------------
+sofia	2	0	❌ Faltando
+helena	1	0	❌ Faltando
+canguru rosa	20	1	▼ A menos (19)
+prendedor menina	4	0	❌ Faltando
+prendedor menino	4	0	❌ Faltando
+kit completo rosa	2	20	▲ A mais (18)
+roupa menina	4	10	▲ A mais (6)
+roupa menino	2	0	❌ Faltando

@@ -1,0 +1,9 @@
+Separador: Eduardi
+Quiosque: Analia Franco
+
+SKU	Planejado	Bipado	Status
+--------------------------------------------------
+abigail cab	4	0	❌ Faltando
+livia	4	4	✓ Correto
+kit completo azul	10	0	❌ Faltando
+prendedor menina	10	0	❌ Faltando

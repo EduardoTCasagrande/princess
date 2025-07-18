@@ -1,0 +1,10 @@
+RELATÓRIO DE CONFERÊNCIA DE ESTOQUE
+Quiosque: Analia Franco
+Contador(a): edu
+Data: 14/07/2025, 15:07:05
+
+SKU                           Contado   Anterior  Observação
+-----------------------------------------------------------------
+livia                         1         -         ➕ Novo SKU
+maite                         1         -         ➕ Novo SKU
+sissi cast                    1         -         ➕ Novo SKU
